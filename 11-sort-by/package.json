@@ -1,0 +1,17 @@
+{
+  "name": "11-sort-by",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "npm run build",
+    "start": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/sort-by": "^1.2.3",
+    "sort-by": "^1.2.0"
+  }
+}
